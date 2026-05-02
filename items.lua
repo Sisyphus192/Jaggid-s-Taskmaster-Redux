@@ -91,7 +91,7 @@ PlaceObj('ModItemActivityGroup', {
 	id = "Deconstruct_JE",
 }),
 PlaceObj('ModItemActivitySet', {
-	Activities = set( "Assembling", "AwaitTreatment", "BoardRescuePod", "BoardTradingPod", "CarryAway", "Celebrate", "Cooking", "Crafting", "DeliveryActivityObject", "Dismantling", "Equip", "FeedingSurvivor", "FollowLeader", "GetMoney", "HealAnimal", "HealSelf", "Healing", "MedicalBedTreatment", "PrepareForExpedition", "Rescuing", "Tailoring", "Unequip", "UnequipCorpse" ),
+	Activities = set( "Assembling", "AwaitTreatment", "BoardRescuePod", "BoardTradingPod", "CarryAway", "Celebrate", "Crafting", "DeliveryActivityObject", "Dismantling", "Equip", "FeedingSurvivor", "FollowLeader", "GetMoney", "HealAnimal", "HealSelf", "Healing", "MedicalBedTreatment", "PrepareForExpedition", "Rescuing", "Tailoring", "Unequip", "UnequipCorpse" ),
 	BackgroundColor = 4291262730,
 	Description = T(398274097917, --[[ModItemActivitySet Craft Description]] "Dedicated hours for Assembling, Crafting and Tailoring tasks."),
 	DisplayName = T(683051489335, --[[ModItemActivitySet Craft DisplayName]] "Craft"),
