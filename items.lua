@@ -146,7 +146,7 @@ PlaceObj('ModItemActivitySet', {
 PlaceObj('ModItemActivitySet', {
 	Activities = set( "AwaitTreatment", "BoardRescuePod", "BoardTradingPod", "Celebrate", "DeliveryActivityObject", "Equip", "FeedingSurvivor", "FollowLeader", "GetMoney", "HealAnimal", "HealSelf", "Healing", "MedicalBedTreatment", "Mining", "PrepareForExpedition", "Rescuing", "Salvaging", "Scavenging", "Unequip", "UnequipCorpse" ),
 	BackgroundColor = 4285229416,
-	Description = T(313883946445, --[[ModItemActivitySet Scavenge Description]] "Dedicated hours for Salvaging, Scrapping AND mining activities.."),
+	Description = T(313883946445, --[[ModItemActivitySet Scavenge Description]] "Dedicated hours for Salvaging, Scavenging AND mining activities."),
 	DisplayName = T(360520963381, --[[ModItemActivitySet Scavenge DisplayName]] "Scavenge"),
 	DisplayNameUpper = T(136232736673, --[[ModItemActivitySet Scavenge DisplayNameUpper]] "SCAVENGE"),
 	SortKey = 13,
