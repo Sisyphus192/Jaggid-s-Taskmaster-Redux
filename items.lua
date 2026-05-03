@@ -8,6 +8,7 @@ PlaceObj('ModItemActivityGroup', {
 	DisplayNameShortened = T(813891129432, --[[ModItemActivityGroup Dismantle_JE DisplayNameShortened]] "Dismantle"),
 	SortKey = 19,
 	id = "Dismantle_JE",
+	save_in = "Mod/jaggids_taskmaster_redux",
 }),
 PlaceObj('ModItemActivityGroup', {
 	Activities = {
@@ -19,6 +20,7 @@ PlaceObj('ModItemActivityGroup', {
 	DisplayNameShortened = T(870329957941, --[[ModItemActivityGroup JE_Manipulation DisplayNameShortened]] "Manip."),
 	SortKey = 17,
 	id = "JE_Manipulation",
+	save_in = "Mod/jaggids_taskmaster_redux",
 }),
 PlaceObj('ModItemActivityGroup', {
 	Activities = {
@@ -29,6 +31,7 @@ PlaceObj('ModItemActivityGroup', {
 	DisplayNameShortened = T(572867652932, --[[ModItemActivityGroup Rescue DisplayNameShortened]] "Rescue"),
 	SortKey = 11,
 	id = "Rescue",
+	save_in = "Mod/jaggids_taskmaster_redux",
 }),
 PlaceObj('ModItemActivityGroup', {
 	Activities = {
@@ -39,6 +42,7 @@ PlaceObj('ModItemActivityGroup', {
 	DisplayNameShortened = T(879544134944, --[[ModItemActivityGroup JE_HealSelf DisplayNameShortened]] "Self Heal"),
 	SortKey = 9,
 	id = "JE_HealSelf",
+	save_in = "Mod/jaggids_taskmaster_redux",
 }),
 PlaceObj('ModItemActivityGroup', {
 	Activities = {
@@ -49,6 +53,7 @@ PlaceObj('ModItemActivityGroup', {
 	DisplayNameShortened = T(717047143640, --[[ModItemActivityGroup Butcher_JE DisplayNameShortened]] "Butcher"),
 	SortKey = 42,
 	id = "Butcher_JE",
+	save_in = "Mod/jaggids_taskmaster_redux",
 }),
 PlaceObj('ModItemActivityGroup', {
 	Activities = {
@@ -59,6 +64,7 @@ PlaceObj('ModItemActivityGroup', {
 	DisplayNameShortened = T(561375357946, --[[ModItemActivityGroup Slaughter_JE DisplayNameShortened]] "Slaughter"),
 	SortKey = 43,
 	id = "Slaughter_JE",
+	save_in = "Mod/jaggids_taskmaster_redux",
 }),
 PlaceObj('ModItemActivityGroup', {
 	Activities = {
@@ -69,6 +75,7 @@ PlaceObj('ModItemActivityGroup', {
 	DisplayNameShortened = T(433715841190, --[[ModItemActivityGroup Salvage_JE DisplayNameShortened]] "Salvage"),
 	SortKey = 76,
 	id = "Salvage_JE",
+	save_in = "Mod/jaggids_taskmaster_redux",
 }),
 PlaceObj('ModItemActivityGroup', {
 	Activities = {
@@ -79,6 +86,7 @@ PlaceObj('ModItemActivityGroup', {
 	DisplayNameShortened = T(720080960029, --[[ModItemActivityGroup Repair_JE DisplayNameShortened]] "Repair"),
 	SortKey = 31,
 	id = "Repair_JE",
+	save_in = "Mod/jaggids_taskmaster_redux",
 }),
 PlaceObj('ModItemActivityGroup', {
 	Activities = {
@@ -89,6 +97,7 @@ PlaceObj('ModItemActivityGroup', {
 	DisplayNameShortened = T(317276392378, --[[ModItemActivityGroup Deconstruct_JE DisplayNameShortened]] "Deconstruct"),
 	SortKey = 32,
 	id = "Deconstruct_JE",
+	save_in = "Mod/jaggids_taskmaster_redux",
 }),
 PlaceObj('ModItemActivitySet', {
 	Activities = set( "Assembling", "AwaitTreatment", "BoardRescuePod", "BoardTradingPod", "CarryAway", "Celebrate", "Crafting", "DeliveryActivityObject", "Dismantling", "Equip", "FeedingSurvivor", "FollowLeader", "GetMoney", "HealAnimal", "HealSelf", "Healing", "MedicalBedTreatment", "PrepareForExpedition", "Rescuing", "Tailoring", "Unequip", "UnequipCorpse" ),
@@ -100,6 +109,7 @@ PlaceObj('ModItemActivitySet', {
 	TextColor = 4294040001,
 	TextShadowColor = 3257016349,
 	id = "Craft",
+	save_in = "Mod/jaggids_taskmaster_redux",
 }),
 PlaceObj('ModItemActivitySet', {
 	Activities = {
@@ -142,6 +152,7 @@ PlaceObj('ModItemActivitySet', {
 	TextColor = 4292209344,
 	TextShadowColor = 3239187220,
 	id = "Farm_Cook",
+	save_in = "Mod/jaggids_taskmaster_redux",
 }),
 PlaceObj('ModItemActivitySet', {
 	Activities = set( "AwaitTreatment", "BoardRescuePod", "BoardTradingPod", "Celebrate", "DeliveryActivityObject", "Equip", "FeedingSurvivor", "FollowLeader", "GetMoney", "HealAnimal", "HealSelf", "Healing", "MedicalBedTreatment", "Mining", "PrepareForExpedition", "Rescuing", "Salvaging", "Scavenging", "Unequip", "UnequipCorpse" ),
@@ -153,6 +164,7 @@ PlaceObj('ModItemActivitySet', {
 	TextColor = 4293583581,
 	TextShadowColor = 3256029713,
 	id = "Scavenge",
+	save_in = "Mod/jaggids_taskmaster_redux",
 }),
 PlaceObj('ModItemActivitySet', {
 	Activities = {
@@ -196,6 +208,7 @@ PlaceObj('ModItemActivitySet', {
 	TextColor = 4294307560,
 	TextShadowColor = 3190104355,
 	id = "Deliver",
+	save_in = "Mod/jaggids_taskmaster_redux",
 }),
 PlaceObj('ModItemActivitySet', {
 	Activities = set( "AwaitTreatment", "BoardRescuePod", "BoardTradingPod", "Celebrate", "Equip", "FeedingSurvivor", "FieldResearch", "FollowLeader", "GetMoney", "HealAnimal", "HealSelf", "Healing", "MedicalBedTreatment", "PrepareForExpedition", "Rescuing", "Research", "Unequip", "UnequipCorpse" ),
@@ -207,6 +220,7 @@ PlaceObj('ModItemActivitySet', {
 	TextColor = 4292597234,
 	TextShadowColor = 3290570792,
 	id = "FieldResearch",
+	save_in = "Mod/jaggids_taskmaster_redux",
 }),
 PlaceObj('ModItemActivitySet', {
 	Activities = {
@@ -239,6 +253,7 @@ PlaceObj('ModItemActivitySet', {
 	TextColor = 4293977562,
 	TextShadowColor = 4278190080,
 	id = "Build",
+	save_in = "Mod/jaggids_taskmaster_redux",
 }),
 PlaceObj('ModItemChangeProp', {
 	'TargetClass', "ActivitySet",
